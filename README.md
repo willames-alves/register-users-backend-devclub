@@ -47,7 +47,10 @@ cd back-end
 npm install
 
 # Inicie o servidor
-npm run dev
+npm start
 # O servidor rodará na porta 3000 (http://localhost:3000)
 ```
+
 # register-users-backend-devclub
+
+Acesse o repositorio do Front-end: [register-users-devclub](https://github.com/willames-alves/-register-users-devclub.git)
