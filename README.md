@@ -40,6 +40,12 @@ Certifique-se de ter o **Node.js** e o **npm** (ou yarn) instalados na sua máqu
 ### 1. Rodando o Back-end
 
 ```bash
+# Clone o repositório
+git clone https://github.com/willames-alves/register-users-backend-devclub.git
+
+# Acesse a pasta do projeto
+cd register-users-devclub-backend
+
 # Entre na pasta do back-end
 cd back-end
 
